@@ -13,8 +13,6 @@ grid = [[5,3,0,0,7,0,0,0,0],
 
 
 
-
-
 def solve():
     global grid
     for x in range(0,9):
